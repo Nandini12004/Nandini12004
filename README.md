@@ -1,6 +1,10 @@
 # Hi 👋 I'm Nandini Srivastava
 
-Web Developer | Engineering Student  
+Web Developer | Engineering Student
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&width=600&lines=Loves+Building+Cool+Things;Passionate+Engineering+Student;Web+Developer;Learning+and+Building+Everyday;Working+on+Improving+My+Skills)
+
+
+
 
 ## 👩‍💻 About Me
 I’m a web developer who enjoys building clean, responsive, and user-friendly websites.
