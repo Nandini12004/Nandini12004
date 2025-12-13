@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Nandini Srivastava
 
-<!--
-**Nandini12004/Nandini12004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer | Engineering Student  
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+I’m a web developer who enjoys building clean, responsive, and user-friendly websites.
+Currently focusing on strengthening my fundamentals and turning ideas into real-world web experiences using simple and efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- HTML  
+- CSS  
+- JavaScript  
+
+## 📫 You can contact me on
+- Email: nandini.1210sr@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/nandinisrivastava012
+
