@@ -13,7 +13,9 @@ Currently focusing on strengthening my fundamentals and turning ideas into real-
 ## 🛠 Skills
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript 
+- Python
+- SQL
 
 ##  🤝 Let’s Connect
 - Email: nandini.1210sr@gmail.com  
