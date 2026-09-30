@@ -28,4 +28,5 @@ Currently focusing on strengthening my fundamentals and turning ideas into real-
 ##  🤝 Let’s Connect
 - Email: nandini.1210sr@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/nandinisrivastava012
+- LeetCode: https://leetcode.com/u/NandiniSri_12/
 
