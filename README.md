@@ -11,7 +11,6 @@ I’m a web developer who enjoys building clean, responsive, and user-friendly w
 Currently focusing on strengthening my fundamentals and turning ideas into real-world web experiences using simple and efficient code.
 
 ## 🛠 Skills
-<h3 align="center">A passionate frontend developer from India</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
